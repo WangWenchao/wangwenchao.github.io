@@ -23,6 +23,5 @@ Email: [wang.wenchao.cn@gmail.com](mailto:wang.wenchao.cn@gmail.com)
 
 Weibo: [Kewin文超](http://weibo.com/kewinwangcn)
 
-Wechat: 
- {.wechat-qr} 
- ![wechat-qr](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)
+{:.wechat-qr} 
+Wechat: ![wechat-qr](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)

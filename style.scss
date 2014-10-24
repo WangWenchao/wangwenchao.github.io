@@ -279,8 +279,9 @@ footer {
 }
 
 .wechat-qr img(
-  width:120px;
-  height：120px;
+  margin: 0 auto;
+  max-width: 120px;
+  padding: 0 10px;
 )
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

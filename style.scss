@@ -278,6 +278,16 @@ footer {
   text-align: center;
 }
 
+footer .copyright{
+  margin: 0 auto;
+  padding 20px 0;
+  font-size:12;
+  text-aligin: center;
+}
+
+.wechat-qr{
+  max-width:100px;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "_highlights";

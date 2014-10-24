@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Wangwenchao 王文超 , as a Programmer work at [sina.com.cn](http://sina.com.cn)
+ 
+Born in Shiyan,Hubei. Now resident in Beijing
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+### Work Experience
+
+Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id=108191127)
+
+### Projects 
+- sina internal DevOps projects
+- tuanpin.com (closed at late 2012)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email: [wang.wenchao.cn@gmail.com](mailto:wang.wenchao.cn@gmail.com)
+
+Weibo: [Kewin文超](http://weibo.com/kewinwangcn)
+
+{:.wechat-qr}
+Wechat:
+![wechat-qr](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)

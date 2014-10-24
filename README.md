@@ -1,5 +1,3 @@
-## My private blog based on Jekyll 
-
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
@@ -91,6 +89,10 @@ It covers:
 ## Questions?
 
 [Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
+
+## Get my new themes
+
+If you'd like me to let you know when I release a new theme, just [drop me your email for updates](http://eepurl.com/XUZpT). I'm currently working on a hacker portfolio site theme.
 
 ## Other forkable themes
 

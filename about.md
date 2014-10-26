@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I'm Wangwenchao 王文超 , as a Programmer work at [sina.com.cn](http://sina.com.cn)
- 
+
 Born in Shiyan,Hubei. Now resident in Beijing
 
 
@@ -23,5 +23,5 @@ Email: [wang.wenchao.cn@gmail.com](mailto:wang.wenchao.cn@gmail.com)
 
 Weibo: [Kewin文超](http://weibo.com/kewinwangcn)
 
-{:.wechat-qr} 
+{:.wechat-qr}
 Wechat: ![wechat-qr](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)

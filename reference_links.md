@@ -189,9 +189,9 @@ permalink: /reference_links/
 
 
 ## DevOps
-- http://www.ansible.com/home
-- https://www.getchef.com/chef/
-- http://puppetlabs.com/
+- <http://www.ansible.com/home> twitter
+- <https://www.getchef.com/chef/>
+- <http://puppetlabs.com/>
 
 - 精品devops工具推荐：
   - 仓库和版本控制：git  svn
@@ -209,13 +209,15 @@ permalink: /reference_links/
 
 
 ## DataVisualization
-- https://interactive.twitter.com/
-- http://philogb.github.io/
-- http://simonrogers.net/   ---<Facts are Sacred>
+- <https://interactive.twitter.com/>
+- <http://philogb.github.io/>
+- <http://simonrogers.net/>   ---<Facts are Sacred>
+- <http://www.beijingcitylab.com/> 北京城市实验室
+- <http://earthenginepartners.appspot.com/science-2013-global-forest>
 
 ## Arch
 - https://code.facebook.com/posts/296442737213493/introducing-mcrouter-a-memcached-protocol-router-for-scaling-memcached-deployments/
 
-##Health
+## Health
 - http://www.nutrition.org/
 - http://www.nutritionj.com/

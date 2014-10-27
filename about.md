@@ -5,11 +5,9 @@ permalink: /about/
 ---
 
 Hi,This is  Wangwenchao 王文超 , and I always use English Name --Kewin Wang on the internet.
-
-Now  a Programmer working at [sina.com.cn](http://sina.com.cn)
-
 Born in Shiyan,Hubei. Now living in Beijing
 
+Now  a Programmer working at [sina.com.cn](http://sina.com.cn)
 
 ### Work Experience
 

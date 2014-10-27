@@ -15,4 +15,5 @@
   - part VI
 
 ## Summary
-  Ok, the end
+  Ok, This Jekyll blog framework is very cool
+

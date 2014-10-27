@@ -13,4 +13,5 @@
   - Part III
   - Part IV
   - Part V 
+  - part VI
 

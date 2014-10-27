@@ -15,6 +15,7 @@ Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id=108
 
 ### Projects 
 - sina internal DevOps projects
+  
 - tuanpin.com (closed at late 2012)
 
 ### Contact me

@@ -1,5 +1,6 @@
 # Blog guidelide
   author : Kewin Wang ,Wangwenchao
+  site: wangwenchao.cn
 
 ## Agenda
   - profile

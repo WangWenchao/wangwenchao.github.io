@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm Wangwenchao 王文超 , as a Programmer work at [sina.com.cn](http://sina.com.cn)
+Hi,I'm Wangwenchao 王文超 , a Programmer working at [sina.com.cn](http://sina.com.cn)
 
-Born in Shiyan,Hubei. Now resident in Beijing
+Born in Shiyan,Hubei. Now living in Beijing
 
 
 ### Work Experience

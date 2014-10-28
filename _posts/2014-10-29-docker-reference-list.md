@@ -12,4 +12,4 @@ Docker official site : [docker.com](http://docker.com)
 - [docker 中文周报](http://docker.imcrm.me/index)
 - [docker doc 中文翻译版](http://dockerpool.com/static/books/docker_practice/index.html)
 - [docker 中文网](https://docker.cn/)
-
+- [InfoQ Docker Serias](http://www.infoq.com/cn/dockers)

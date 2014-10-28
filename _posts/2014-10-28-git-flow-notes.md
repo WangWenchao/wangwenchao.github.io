@@ -11,7 +11,8 @@ after read the [A successful Git branching model](http://nvie.com/posts/a-succes
 
 and the recommoned git flow plugin for git also write by Vincent Driessen  , it' on the gtihub [nvie/gitflow](https://github.com/nvie/gitflow)
 
-other links 
+other links:
+
 - git officail doc :[http://git-scm.com/docs/](http://git-scm.com/docs/)
 - [https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/)
 - [http://danielkummer.github.io/git-flow-cheatsheet/](http://danielkummer.github.io/git-flow-cheatsheet/)

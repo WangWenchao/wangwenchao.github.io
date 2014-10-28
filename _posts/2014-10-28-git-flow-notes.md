@@ -11,6 +11,12 @@ after read the [A successful Git branching model](http://nvie.com/posts/a-succes
 
 and the recommond the  git flow plugin for git also write by Vincent Driessen  , it' on the gtihub [nvie/gitflow](https://github.com/nvie/gitflow)
 
+The ebook <Pro Git> V2  has a newer verion released 
+
+![Pro Git V2](http://git-scm.com/images/progit2.png)
+
+Download link：[http://git-scm.com/book/en/v2](http://git-scm.com/book/en/v2)
+
 other links:
 
 - git officail doc :[http://git-scm.com/docs/](http://git-scm.com/docs/)

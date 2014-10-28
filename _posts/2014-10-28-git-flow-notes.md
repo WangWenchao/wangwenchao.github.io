@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Blog based  Jekyll on github
+title: git flow notes
 ---
 
 git flow notes

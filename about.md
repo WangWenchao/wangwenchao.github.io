@@ -18,4 +18,5 @@ Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id=108
 Email: [wang.wenchao.cn@gmail.com](mailto:wang.wenchao.cn@gmail.com)
 Weibo: [Kewin文超](http://weibo.com/kewinwangcn) 
 
-{:.wechat-qr} Wechat: ![wechat-qr](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)
+{:.wechat-qr} 
+Wechat: ![wechat-qr](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)

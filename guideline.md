@@ -12,11 +12,11 @@
   - Part I
   - Part II
   - Part III
+  - Part IV
   - Part V 
   - part VI
 
 ## Summary
   Ok, This Jekyll blog framework is very cool
   
-
 :)

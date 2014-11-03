@@ -17,14 +17,14 @@ avatar: https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/mast
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
+  dribbble:
   email: wang.wenchao.cn@gmail.com
   facebook: kewin.wang.cn
-  flickr: 
+  flickr:
   github: WangWenchao
-  weibo: kewinwang 
-  linkedin: kewin-wang
-  pinterest: 
+  weibo: kewinwang
+  linkedin: kewinwang
+  pinterest:
   rss: rss # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: kewin_wang
   stackoverflow: users/746881/kewin # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -33,13 +33,13 @@ footer-links:
 disqus: kewinwang
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-39860739-1 
+google_analytics: UA-39860739-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.wangwenchao.cn 
+url: http://www.wangwenchao.cn
 
-# If you're hosting your site at a Project repository on GitHub pages 
+# If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"

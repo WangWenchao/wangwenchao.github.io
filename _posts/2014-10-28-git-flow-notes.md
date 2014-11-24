@@ -4,10 +4,12 @@ title: git flow notes
 ---
 
 git basic knowledge learning links 
+
 - <http://ndpsoftware.com/git-cheatsheet.html>
 - <http://git-scm.com/doc/ext>
 - <http://git-scm.com/docs>
 - <http://gitref.org/>
+
 
 And after read the [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 

@@ -36,7 +36,11 @@ permalink: /reference_links/
 - https://www.digitalocean.com/community/tutorials/how-to-use-vundle-to-manage-vim-plugins-on-a-linux-vps
 
 #### Git
-- http://git-scm.com/book   and http://git-scm.com/docs http://gitref.org/ http://git-scm.com/doc/ext 
+- http://git-scm.com/book   
+- http://ndpsoftware.com/git-cheatsheet.html 
+- http://git-scm.com/docs 
+- http://gitref.org/ 
+- http://git-scm.com/doc/ext 
 - http://think-like-a-git.net/resources.html
 - http://git-scm.com/docs/gittutorial 
 - http://marklodato.github.io/visual-git-guide/index-en.html

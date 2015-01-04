@@ -17,7 +17,7 @@ install tutorial **(base on the Mac OX)**
 
 1 install InfluxDB  <http://influxdb.com/docs/v0.8/introduction/installation.html>
 
-``` shell
+```shell
 brew update
 
 brew install influxdb
@@ -27,12 +27,14 @@ brew info influxdb
 influxdb -config=/usr/local/etc/influxdb.conf
 
 ```
+
 then open the browser <http://127.0.0.1:8083/>
 
 
 2. install the Grafana  from source , use grunt to build the project 
 
-```
+```shell
+
 git clone https://github.com/grafana/grafana.git
 
 cd grafana
@@ -50,6 +52,7 @@ grunt build
 3. start the grafana by
 
 ``` shell
+
 python -m SimpleHTTPServer
 
 ```

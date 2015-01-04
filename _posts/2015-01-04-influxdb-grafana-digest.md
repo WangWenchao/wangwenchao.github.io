@@ -17,7 +17,8 @@ install tutorial **(base on the Mac OX)**
 
 1 install InfluxDB  <http://influxdb.com/docs/v0.8/introduction/installation.html>
 
-```shell
+{% highlight bash %}
+
 brew update
 
 brew install influxdb
@@ -26,12 +27,12 @@ brew info influxdb
 
 influxdb -config=/usr/local/etc/influxdb.conf
 
-```
+{% endhighlight  %}
 
 then open the browser <http://127.0.0.1:8083/>
 
 
-2. install the Grafana  from source , use grunt to build the project 
+2  install the Grafana  from source , use grunt to build the project 
 
 ```shell
 
@@ -49,7 +50,7 @@ grunt build
 
 ```
 
-3. start the grafana by
+3 start the grafana by
 
 ``` shell
 
@@ -59,7 +60,8 @@ python -m SimpleHTTPServer
 
 then <http://127.0.0.1:8000>
 
-4. Add InfluxDB to your App  
+4 Add InfluxDB to your App  
+
   development libaray for Ruby --- influxdb gem
 
 

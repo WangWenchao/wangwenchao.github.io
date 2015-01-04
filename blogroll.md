@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Blogroll
+permalink: blogroll
 ---
-
-Blogroll
 
 - <http://cos.name>
 - <https://www.byvoid.com/>

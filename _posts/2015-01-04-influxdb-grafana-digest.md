@@ -1,6 +1,6 @@
 ---
 layout: post
-title InfluxDB and Grafana first Digest
+title: InfluxDB and Grafana first Digest
 ---
 
 After I read the article on the [rubychina](https://ruby-china.org/topics/23470) and then have a motivation to have a try the InfluxDB and Grafana

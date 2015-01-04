@@ -29,26 +29,26 @@ permalink: /reference_links/
 - <http://arstechnica.com/apple/2014/10/os-x-10-10/> update Yosemite
 
 ####vim and Vundle
-- https://github.com/WangWenchao/minimum-awesome
-- https://github.com/gmarik/Vundle.vim
-- https://github.com/tpope/vim-pathogen 
-- http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
-- https://www.digitalocean.com/community/tutorials/how-to-use-vundle-to-manage-vim-plugins-on-a-linux-vps
+- <https://github.com/WangWenchao/minimum-awesome>
+- <https://github.com/gmarik/Vundle.vim>
+- <https://github.com/tpope/vim-pathogen >
+- <http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/>
+- <https://www.digitalocean.com/community/tutorials/how-to-use-vundle-to-manage-vim-plugins-on-a-linux-vps>
 
 #### Git
-- http://git-scm.com/book   
-- http://ndpsoftware.com/git-cheatsheet.html 
-- http://git-scm.com/docs 
-- http://gitref.org/ 
-- http://git-scm.com/doc/ext 
-- http://think-like-a-git.net/resources.html
-- http://git-scm.com/docs/gittutorial 
-- http://marklodato.github.io/visual-git-guide/index-en.html
-- http://nvie.com/posts/a-successful-git-branching-model/
-- http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html
-- http://danielkummer.github.io/git-flow-cheatsheet/
-- https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/
-- http://interrobeng.com/2013/08/25/speed-up-git-5x-to-50x/
+- <http://git-scm.com/book>   
+- <http://ndpsoftware.com/git-cheatsheet.html>
+- <http://git-scm.com/docs>
+- <http://gitref.org/>
+- <http://git-scm.com/doc/ext>
+- <http://think-like-a-git.net/resources.html>
+- <http://git-scm.com/docs/gittutorial> 
+- <http://marklodato.github.io/visual-git-guide/index-en.html>
+- <http://nvie.com/posts/a-successful-git-branching-model/>
+- <http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html>
+- <http://danielkummer.github.io/git-flow-cheatsheet/>
+- <https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/>
+- <http://interrobeng.com/2013/08/25/speed-up-git-5x-to-50x/>
 
 
 ##iOS dev reference links 

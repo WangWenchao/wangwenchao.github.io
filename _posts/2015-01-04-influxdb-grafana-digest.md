@@ -29,7 +29,7 @@ then open the browser <http://127.0.0.1:8083/>
 
 2  install the Grafana  from source , use grunt to build the project 
 
-{% highlight shell %}
+{% highlight bash %}
 
 git clone https://github.com/grafana/grafana.git
 cd grafana
@@ -42,7 +42,7 @@ grunt build
 
 3 start the grafana by
 
-{% highlight shell %}
+{% highlight bash %}
 
 python -m SimpleHTTPServer
 

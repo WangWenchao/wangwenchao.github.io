@@ -19,9 +19,11 @@ Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id
 </a>
 
 ### Contact me
-Email: [wang.wenchao.cn@gmail.com](mailto:wang.wenchao.cn@gmail.com)
+- Email: [wang.wenchao.cn@gmail.com](mailto:wang.wenchao.cn@gmail.com)
 
-Weibo: [@Kewin文超](http://weibo.com/kewinwangcn)
+- Github: [WangWenchao](https://github.com/WangWenchao) 
 
-{:.wechat-qr}
-Wechat: ![kewin_wang](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)
+- Weibo: [@Kewin文超](http://weibo.com/kewinwangcn)
+
+- {:.wechat-qr}
+  Wechat: ![kewin_wang](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)

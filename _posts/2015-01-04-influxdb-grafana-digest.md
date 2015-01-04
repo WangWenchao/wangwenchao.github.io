@@ -19,9 +19,13 @@ install tutorial **(base on the Mac OX)**
 
 ``` shell
 brew update
+
 brew install influxdb
+
 brew info influxdb
+
 influxdb -config=/usr/local/etc/influxdb.conf
+
 ```
 then open the browser <http://127.0.0.1:8083/>
 
@@ -30,17 +34,24 @@ then open the browser <http://127.0.0.1:8083/>
 
 ```
 git clone https://github.com/grafana/grafana.git
+
 cd grafana
+
 brew  install node 
+
 npm install -g grunt-cli
+
 npm install
+
 grunt build
+
 ```
 
 3. start the grafana by
 
 ``` shell
 python -m SimpleHTTPServer
+
 ```
 
 then <http://127.0.0.1:8000>

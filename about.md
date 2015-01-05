@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hi,This is  Wangwenchao 王文超 , English Name --Kewin Wang on the internet.
+Hi,This is  Wangwenchao , English Name --Kewin Wang on the internet.
 
 Born in Shiyan,Hubei. Now living in Beijing.
 
-As a Programmer working at [sina.com.cn](http://sina.com.cn)  from 2011.10---now 
+As a Programmer working at Sina  from 2011.10---now 
 
 ### Work Experience
 

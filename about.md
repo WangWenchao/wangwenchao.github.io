@@ -18,6 +18,15 @@ Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id
 <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Kewin Wang's profile on LinkedIn">
 </a>
 
+### Tech Stack
+- PHP 
+- Ruby/Rails
+- Linux
+- MySQL
+- Redis
+- Golang
+- AWS 
+
 ### Contact me
 - Email: [wang.wenchao.cn@gmail.com](mailto:wang.wenchao.cn@gmail.com)
 

@@ -9,3 +9,4 @@ permalink: /blogroll/
 - <https://www.byvoid.com/>
 - <http://blog.fens.me/>
 - <http://yansu.org/>
+- <http://zyan.cc/>

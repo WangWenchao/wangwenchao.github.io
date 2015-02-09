@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -45,27 +45,27 @@ h1, h2, h3, h4, h5, h6 {
 }
   
 h1 {  
-  font-size: 30px;
+  font-size: 24px;
   a {
     color: inherit;
   }
 }
 
 h2 {  
-  font-size: 24px;
+  font-size: 18px;
 }
 
 h3 {  
-  font-size: 20px;
+  font-size: 16px;
 }
 
 h4 {  
-  font-size: 18px;
+  font-size: 14px;
   color: $gray;
 }
 
 p {
-  margin: 15px 0;
+  margin: 12px 0;
 }
 
 a {
@@ -191,7 +191,7 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue; 
   font-weight: 300;
-  font-size: 28px;
+  font-size: 24px;
   letter-spacing: 1px;
 }
 
@@ -252,7 +252,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 16px;
     font-style: italic;
   }
 

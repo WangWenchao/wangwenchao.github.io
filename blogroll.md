@@ -13,3 +13,4 @@ permalink: /blogroll/
 - <http://www.xdata.me/> sina DBA 关启盼
 - <http://noops.me/>  小米运维
 - <http://www.ttlsa.com/> 运维生存时间
+- <http://geniusblog.sinaapp.com/> @UlricQin 整理

@@ -12,3 +12,4 @@ permalink: /blogroll/
 - <http://zyan.cc/>  张宴
 - <http://www.xdata.me/> sina DBA 关启盼
 - <http://noops.me/>  小米运维
+- <http://www.ttlsa.com/> 运维生存时间

@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi,This is  WangWenchao , English Name --Kewin Wang on the internet.
 Born in Shiyan,Hubei. Now living in Beijing.
-As a Programmer working at Sina  from 2011.10---now 
+
 
 ### Work Experience
 

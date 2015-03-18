@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi,This is  WangWenchao , English Name --Kewin Wang on the internet.
+Hi,This is  WangWenchao , English Name --Kewin Wang ,always used on the internet.
 Born in Shiyan,Hubei. Now living in Beijing.
-
 
 ### Work Experience
 
@@ -18,6 +17,7 @@ Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id
 ### Tech Stack
 - PHP 
 - Ruby/Rails
+- Python
 - Linux
 - DevOps 
 - MySQL

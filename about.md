@@ -15,15 +15,17 @@ Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id
 </a>
 
 ### Tech Stack
-- PHP 
-- Ruby/Rails
-- Python
-- Linux
-- DevOps 
-- MySQL
-- Redis
-- Golang
-- AWS 
+|language/Tech|Years|proficiency|
+|:------------|:----:|----------:|
+| PHP | 4 | |
+| Ruby/Rails | 4 |
+| Python | 1 | |
+| Linux| 4 | |
+| DevOps | 3 | |
+| MySQL | 4 | |
+| Redis | 2 | | 
+| Golang | 1| |
+| AWS | 1| | 
 
 ### Contact me
 - Email: [wang.wenchao.cn#gmail.com](mailto:wang.wenchao.cn#gmail.com)

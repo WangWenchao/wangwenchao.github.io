@@ -15,7 +15,7 @@ Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id
 </a>
 
 ### Tech Stack
-|language/Tech|Years|proficiency|
+| language Tech | Years | proficiency |
 |:------------|:----:|----------:|
 | PHP | 4 | |
 | Ruby/Rails | 4 |

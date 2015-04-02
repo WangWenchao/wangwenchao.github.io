@@ -115,3 +115,23 @@ libswarm 是一个很小的工具包，用来组合 Docker 的各种网络服务
 
 - <http://europe.dockercon.com/>
 
+### Vagrant 
+
+<https://www.vagrantup.com>
+<https://atlas.hashicorp.com>
+
+- Terraform 
+is a tool for building, changing, and combining infrastructure safely and efficiently.
+<http://www.terraform.io>
+<https://github.com/hashicorp/mdns>
+
+- packer
+<https://packer.io/> <https://packer.io/>
+Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+
+- consul 
+<https://consul.io/>
+<https://github.com/hashicorp/consul>
+service discovery  and configration make easy ,Distributed ,high aviaible  and datacenter-aware
+
+-

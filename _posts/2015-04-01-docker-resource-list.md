@@ -91,12 +91,12 @@ libswarm 是一个很小的工具包，用来组合 Docker 的各种网络服务
 
 ### docker deepin serials
 
-- <http://www.infoq.com/cn/articles/docker-core-technology-preview>
-- <http://www.infoq.com/cn/articles/docker-source-code-analysis-part1>
-- <http://www.infoq.com/cn/articles/what-is-coreos>
-- <http://www.infoq.com/cn/news/2014/12/docker-2014>
-- <http://www.infoq.com/cn/news/2014/06/docker-related-project>
-- <http://dockerone.com/article/76>
+- <http://www.infoq.com/cn/articles/docker-core-technology-preview> Docker 深入浅出
+- <http://www.infoq.com/cn/articles/docker-source-code-analysis-part1> Docker 源码解析
+- <http://www.infoq.com/cn/articles/what-is-coreos> Coreos 实战
+- <http://www.infoq.com/cn/news/2014/12/docker-2014> Docker 2014 大事件
+- <http://www.infoq.com/cn/news/2014/06/docker-related-project> Docker 相关的项目
+- <http://dockerone.com/article/76> 
 - <http://www.infoq.com/cn/articles/Kubernetes-system-architecture-introduction>
 - <http://dockerone.com/article/75>
 - <https://www.gitbook.io/book/yeasy/docker_practice>
@@ -108,9 +108,10 @@ libswarm 是一个很小的工具包，用来组合 Docker 的各种网络服务
 
 - <http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/>
 - <http://thenewstack.io/sdn-series-part-eight-comparison-of-open-source-sdn-controllers/>
-- <https://cloudrouter.org/>
+- <https://cloudrouter.org/> 
 - <http://blog.altoros.com/golang-internals-part-2-diving-into-the-go-compiler.html>
-- <http://www.nkode.io/2014/08/24/valuable-docker-links.html>  
+
+- <http://www.nkode.io/2014/08/24/valuable-docker-links.html>  这是国外的一个哥们整理的Docker资源
 
 
 ### docker conf

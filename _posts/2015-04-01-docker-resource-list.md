@@ -90,6 +90,7 @@ libswarm 是一个很小的工具包，用来组合 Docker 的各种网络服务
 
 
 ### docker deepin serials
+
 - <http://www.infoq.com/cn/articles/docker-core-technology-preview>
 - <http://www.infoq.com/cn/articles/docker-source-code-analysis-part1>
 - <http://www.infoq.com/cn/articles/what-is-coreos>
@@ -109,11 +110,18 @@ libswarm 是一个很小的工具包，用来组合 Docker 的各种网络服务
 - <http://thenewstack.io/sdn-series-part-eight-comparison-of-open-source-sdn-controllers/>
 - <https://cloudrouter.org/>
 - <http://blog.altoros.com/golang-internals-part-2-diving-into-the-go-compiler.html>
+- <http://www.nkode.io/2014/08/24/valuable-docker-links.html>  
 
 
 ### docker conf
 
 - <http://europe.dockercon.com/>
+
+### Docker Weekly 
+
+- <https://blog.docker.com/docker-weekly-archives/>
+- <http://weekly.dockone.io>
+
 
 ### Vagrant 
 
@@ -134,4 +142,3 @@ Packer is a tool for creating identical machine images for multiple platforms fr
 <https://github.com/hashicorp/consul>
 service discovery  and configration make easy ,Distributed ,high aviaible  and datacenter-aware
 
--

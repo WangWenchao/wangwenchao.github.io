@@ -26,7 +26,11 @@ Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id
 - AWS 
 
 ### Contact me
-- Email: [wang.wenchao.cn#gmail.com](mailto:wang.wenchao.cn#gmail.com)
+
+- Email: 
+``` shell
+ruby -r base64 -e 'p Base64.decode64("a2V3aW4yMDEwQGdtYWlsLmNvbQ==\n")'
+```
 
 - Github: [WangWenchao](https://github.com/WangWenchao) 
 

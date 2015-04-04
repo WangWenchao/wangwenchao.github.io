@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi,This is  WangWenchao , English Name --Kewin Wang ,always used on the internet.
-Born in Shiyan,Hubei. Now living in Beijing.
+Hi,This is  Wang Wenchao , also used english name  Kewin Wang on the internet.
+
+Born in Shiyan,Hubei, living in Beijing now .
+
+I'm a programmer working at AUTOHOME(2015.3-now ) ,  worked at Sina (2011.10-2015.3), Tuanpin (2011-4-2011.9)
+
+mainly do some web development and using PHP ,Ruby On Rails , and build DevOps systems
 
 ### Work Experience
 
@@ -27,11 +32,7 @@ Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id
 
 ### Contact me
 
-- Email: 
-
-```shell
-ruby -r base64 -e 'p Base64.decode64("a2V3aW4yMDEwQGdtYWlsLmNvbQ==\n")'
-```
+- Email: wang.wenchao.cn#gmail.com  
 
 - Github: [WangWenchao](https://github.com/WangWenchao) 
 

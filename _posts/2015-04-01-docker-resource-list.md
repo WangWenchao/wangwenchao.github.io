@@ -117,7 +117,7 @@ libswarm 是一个很小的工具包，用来组合 Docker 的各种网络服务
 - <http://blog.altoros.com/golang-internals-part-2-diving-into-the-go-compiler.html>
 
 - <http://www.nkode.io/2014/08/24/valuable-docker-links.html>  这是国外的一个哥们整理的Docker资源
-
+- <http://youtube-eng.blogspot.ro/2015/04/scaling-mysql-in-cloud-with-vitess-and.html> Google developer blog about the Mysql Scaling on the Vites and Kubernets
 
 ### docker conf
 

@@ -22,6 +22,11 @@ title: Docker Resource for Research
 - <http://mesos.apache.org/>
 - <https://github.com/GoogleCloudPlatform/kubernetes>
 
+### Docker Network
+- <https://github.com/zettio/weave>
+- <http://openvswitch.org/> OpenVSwitch
+- <https://cloudrouter.org> CloudRputer
+
 ### Projects
 
 Kubernetes 
@@ -84,10 +89,9 @@ libswarm 是一个很小的工具包，用来组合 Docker 的各种网络服务
 - <https://github.com/Strider-CD/strider>
 
 ### PaaS
-- <http://deis.io/>
+- <http://deis.io/> very cool PaaS
 - <https://flynn.io/>
 - <https://tsuru.io/>
-
 
 ### docker deepin serials
 

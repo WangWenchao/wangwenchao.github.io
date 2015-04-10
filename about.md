@@ -8,7 +8,7 @@ Hi,This is  Wang Wenchao , also used english name  Kewin Wang on the internet.
 
 Born in Shiyan,Hubei Provience,and now  living in Beijing now .
 
-I'm a programmer working at [http://autohome.com.cn](AUTOHOME)(2015.3-now )  
+I'm a programmer working at [AUTOHOME](http://autohome.com.cn)(2015.3-now )  
 
 [Sina R&D Center](http://sina.com.cn) (2011.10-2015.3) System Engineer, DevOps 
 

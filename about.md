@@ -10,9 +10,9 @@ Born in Shiyan,Hubei Provience,and now  living in Beijing now .
 
 I'm a programmer working at [http://autohome.com.cn](AUTOHOME)(2015.3-now )  
 
-[http://sina.com.cn](Sina) R&D center (2011.10-2015.3) System Engineer, DevOps 
+[Sina R&D Center](http://sina.com.cn) (2011.10-2015.3) System Engineer, DevOps 
 
-[http://tuanpin.com](TuanPin) (2011-4-2011.9) RubyOnRails Engineer
+[Tuanpin](http://tuanpin.com) (2011-4-2011.9) RubyOnRails Engineer
 
 
 ### Work Experience

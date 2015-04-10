@@ -6,11 +6,14 @@ permalink: /about/
 
 Hi,This is  Wang Wenchao , also used english name  Kewin Wang on the internet.
 
-Born in Shiyan,Hubei, living in Beijing now .
+Born in Shiyan,Hubei Provience,and now  living in Beijing now .
 
-I'm a programmer working at AUTOHOME(2015.3-now ) ,  worked at Sina (2011.10-2015.3), Tuanpin (2011-4-2011.9)
+I'm a programmer working at AUTOHOME(2015.3-now )  
 
-mainly do some web development and using PHP ,Ruby On Rails , and build DevOps systems
+[http://sina.com.cn](Sina) R&D center (2011.10-2015.3) System Engineer, DevOps 
+
+[http://tuanpin.com](TuanPin) (2011-4-2011.9) RubyOnRails Engineer
+
 
 ### Work Experience
 

@@ -4,7 +4,7 @@ title: Blogroll
 permalink: /blogroll/
 ---
 
-- [reference list](reference_links)
+- [reference list](/reference_links)
 - <http://www.yangzhiping.com/> 阳志平  
 - <http://isky000.com/articles> 
 - <http://cos.name>  统计中国

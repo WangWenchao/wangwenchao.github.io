@@ -14,7 +14,7 @@ I'm a programmer working at [AUTOHOME](http://autohome.com.cn)(2015.3-now )
 
 [Tuanpin](http://tuanpin.com) (2011-4-2011.9) RubyOnRails Engineer
 
-A Giter,Ruber,PHPer,Pythoner and Linuxer ,also a Mac enthusiasm
+A Gitter,Ruber,PHPer,Pythoner and Linuxer ,also a Mac enthusiasm
 
 ### Work Experience
 

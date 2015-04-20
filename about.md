@@ -45,4 +45,3 @@ Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id
 - {:.wechat-qr}
   Wechat: ![kewin_wang](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)
 
-

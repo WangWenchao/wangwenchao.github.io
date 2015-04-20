@@ -21,12 +21,11 @@ permalink: /blogroll/
     - FB Engineering Blog <https://code.facebook.com>
     - Twitter Blog<https://blog.twitter.com/>
     - Google Blog <http://googleblog.blogspot.com/>
-
     - <http://www.slideshare.net/>
     - <http://slides.com>
     - <https://speakerdeck.com/>
     - <http://blog.github.com>
-
+    - <https://www.digitalocean.com/community>
 
 
 

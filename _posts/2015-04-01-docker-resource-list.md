@@ -89,13 +89,16 @@ libswarm 是一个很小的工具包，用来组合 Docker 的各种网络服务
 - <https://drone.io/>
 - <https://github.com/Strider-CD/strider>
 
+### Docker Visual Deployment
+- LastBackend <http://lastbackend.com/>
+- Digital Ocean Docker/CoreOS <https://www.digitalocean.com/community>
+
 ### PaaS
 - <http://deis.io/> very cool PaaS
 - <https://flynn.io/>
 - <https://tsuru.io/>
 
 ### docker deepin serials
-
 - <http://www.infoq.com/cn/articles/docker-core-technology-preview> Docker 深入浅出
 - <http://www.infoq.com/cn/articles/docker-source-code-analysis-part1> Docker 源码解析
 - <http://www.infoq.com/cn/articles/what-is-coreos> Coreos 实战

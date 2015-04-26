@@ -134,8 +134,8 @@ libswarm 是一个很小的工具包，用来组合 Docker 的各种网络服务
 
 ### Vagrant 
 
-<https://www.vagrantup.com>
-<https://atlas.hashicorp.com>
+<https://www.vagrantup.com> vagrant official site 
+<https://atlas.hashicorp.com> vagrant box pack ,build and ship ,share with vagrant helper site 
 
 - Terraform 
 is a tool for building, changing, and combining infrastructure safely and efficiently.
@@ -150,4 +150,9 @@ Packer is a tool for creating identical machine images for multiple platforms fr
 <https://consul.io/>
 <https://github.com/hashicorp/consul>
 service discovery  and configration make easy ,Distributed ,high aviaible  and datacenter-aware
+
+- Best Practise
+ <http://jamesmcfadden.co.uk/using-vagrant-and-puppet-to-build-a-php-nginx-and-mysql-environment/>
+ <https://gorails.com/guides/using-vagrant-for-rails-development>
+
 

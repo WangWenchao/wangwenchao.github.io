@@ -12,7 +12,7 @@ Now programming ,serve at [AUTOHOME](http://autohome.com.cn)(2015.3-now )
 
 [Sina R&D Center](http://sina.com.cn) (2011.10-2015.3) System Engineer, DevOps 
 
-[Tuanpin](http://tuanpin.com) (2011-4-2011.9) RubyOnRails Engineer
+[Tuanpin](http://tuanpin.com) (2011.4-2011.9) RubyOnRails Engineer
 
 A Gitter,Ruber,PHPer,Pythoner and Linuxer ,also a Mac enthusiasm
 
@@ -20,7 +20,7 @@ A Gitter,Ruber,PHPer,Pythoner and Linuxer ,also a Mac enthusiasm
 
 Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id=108191127)
 <a href="http://cn.linkedin.com/in/kewinwang">
-<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Kewin Wang's profile on LinkedIn">
+<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="140" height="28" border="0" alt="View Kewin Wang's profile on LinkedIn">
 </a>
 
 ### Tech Stack

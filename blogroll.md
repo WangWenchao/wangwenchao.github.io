@@ -30,7 +30,9 @@ permalink: /blogroll/
 
 
 
-
+- <http://dongxicheng.org/> 董的日志 （董西成） 
+    - <http://dongxicheng.org/knowledges-carding/>
+    - <http://dongxicheng.org/recommend/>
 - <http://www.yangzhiping.com/> 阳志平  
 - <http://isky000.com/articles> 
 - <http://cos.name>  统计中国

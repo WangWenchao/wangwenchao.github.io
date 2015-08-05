@@ -46,5 +46,5 @@ Get Detail from Linkedin [ Kewin Wang ](https://www.linkedin.com/profile/view?id
   Wechat: ![kewin_wang](https://raw.githubusercontent.com/WangWenchao/wangwenchao.github.io/master/images/Wechat-QR.png)
 
 - <a href="http://stackexchange.com/users/388134">
-<img src="http://stackexchange.com/users/flair/388134.png" width="208" height="58" alt="profile for Kewin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kewin on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+<img src="http://stackexchange.com/users/flair/388134.png?theme=clean" width="208" height="58" alt="profile for Kewin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kewin on Stack Exchange, a network of free, community-driven Q&amp;A sites">
 </a>
